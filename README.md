@@ -17,7 +17,7 @@ Você deverá criar um cadastro de clientes que poderá conter muitos contatos a
 
 ***OBS: utilize a linguagem de sua preferência.***
 
-**Sua aplicação web DEVE:**
+**Sua aplicação web DEVE CONTER:**
 
 1. Uma tela de cadastro de cliente com os seguintes campos:
 * nome completo
