@@ -1,7 +1,7 @@
-# Desafio programação - para vaga Fullstack - JUNIOR/PLENO
+# Desafio programação - para vaga Fullstack - JUNIOR
 
 Por favor leia este documento do começo ao fim, com muita atenção.
-O intuito deste teste é avaliar seus conhecimentos técnicos como fullstack junior/pleno, e assim entendermos melhor o quanto você possui de conhecimento e o quanto nós podemos te ajudar a crescer e se desenvolver.
+O intuito deste teste é avaliar seus conhecimentos técnicos como fullstack junior, e assim entendermos melhor o quanto você possui de conhecimento e o quanto nós podemos te ajudar a crescer e se desenvolver.
 
 Este teste consiste em criar um pequeno cadastro de clientes com vínculo de contatos e depois mostrar o cliente e seus contatos vinculados.
 
